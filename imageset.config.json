@@ -25,16 +25,13 @@
           "tags": []
         },
         {
-          "filename": "mecha/mecha1.webp",
-          "label": "Flying Mecha",
-          "tags": [
-            "tech",
-            "1_1_0"
-          ]
+          "filename": "mecha\\mecha1.webp",
+          "label": "mecha\\mecha1.webp",
+          "tags": []
         },
         {
-          "filename": "mecha/mecha2.webp",
-          "label": "mecha/mecha2.webp",
+          "filename": "mecha\\mecha2.webp",
+          "label": "mecha\\mecha2.webp",
           "tags": []
         }
       ],
@@ -52,16 +49,6 @@
         "1_0_0": {
           "title": "Image set Version 1",
           "description": "Images from Version 1",
-          "category": "general"
-        },
-        "tech": {
-          "title": "Technology",
-          "description": "Images related to technological devices or concepts",
-          "category": "general"
-        },
-        "1_1_0": {
-          "title": "Image set Version 1.1",
-          "description": "Images from Version 1.1",
           "category": "general"
         }
       }
@@ -105,6 +92,18 @@
           ]
         },
         {
+          "filename": "Anti-Gravity_Cube_Rank_1.webp",
+          "label": "ANTI-GRAVITY CUBE",
+          "tags": [
+            "heavy",
+            "3_0_0",
+            "4_0_0",
+            "5_0_0",
+            "6_0_0",
+            "gadgets"
+          ]
+        },
+        {
           "filename": "APS_Turret_Rank_1.webp",
           "label": "APS TURRET",
           "tags": [
@@ -123,18 +122,6 @@
             "light",
             "6_0_0",
             "weapon"
-          ]
-        },
-        {
-          "filename": "Anti-Gravity_Cube_Rank_1.webp",
-          "label": "ANTI-GRAVITY CUBE",
-          "tags": [
-            "heavy",
-            "3_0_0",
-            "4_0_0",
-            "5_0_0",
-            "6_0_0",
-            "gadgets"
           ]
         },
         {
@@ -183,18 +170,6 @@
           ]
         },
         {
-          "filename": "CL-40_Rank_1.webp",
-          "label": "CL-40",
-          "tags": [
-            "medium",
-            "3_0_0",
-            "4_0_0",
-            "5_0_0",
-            "6_0_0",
-            "weapon"
-          ]
-        },
-        {
           "filename": "Cerberus_12GA_Rank_1.webp",
           "label": "CERBERUS 12GA",
           "tags": [
@@ -215,6 +190,18 @@
             "5_0_0",
             "6_0_0",
             "special"
+          ]
+        },
+        {
+          "filename": "CL-40_Rank_1.webp",
+          "label": "CL-40",
+          "tags": [
+            "medium",
+            "3_0_0",
+            "4_0_0",
+            "5_0_0",
+            "6_0_0",
+            "weapon"
           ]
         },
         {
@@ -551,10 +538,10 @@
           ]
         },
         {
-          "filename": "LH1_Rank_1.webp",
-          "label": "LH1",
+          "filename": "Lewis_Gun_Rank_1.webp",
+          "label": "LEWIS GUN",
           "tags": [
-            "light",
+            "heavy",
             "3_0_0",
             "4_0_0",
             "5_0_0",
@@ -563,10 +550,10 @@
           ]
         },
         {
-          "filename": "Lewis_Gun_Rank_1.webp",
-          "label": "LEWIS GUN",
+          "filename": "LH1_Rank_1.webp",
+          "label": "LH1",
           "tags": [
-            "heavy",
+            "light",
             "3_0_0",
             "4_0_0",
             "5_0_0",
@@ -630,18 +617,6 @@
           ]
         },
         {
-          "filename": "MGL32_Rank_1.webp",
-          "label": "MGL32",
-          "tags": [
-            "heavy",
-            "3_0_0",
-            "4_0_0",
-            "5_0_0",
-            "6_0_0",
-            "weapon"
-          ]
-        },
-        {
           "filename": "Mesh_Shield_Rank_1.webp",
           "label": "MESH SHIELD",
           "tags": [
@@ -651,6 +626,18 @@
             "5_0_0",
             "6_0_0",
             "special"
+          ]
+        },
+        {
+          "filename": "MGL32_Rank_1.webp",
+          "label": "MGL32",
+          "tags": [
+            "heavy",
+            "3_0_0",
+            "4_0_0",
+            "5_0_0",
+            "6_0_0",
+            "weapon"
           ]
         },
         {
@@ -716,30 +703,6 @@
           ]
         },
         {
-          "filename": "RPG-7_Rank_1.webp",
-          "label": "RPG-7",
-          "tags": [
-            "heavy",
-            "3_0_0",
-            "4_0_0",
-            "5_0_0",
-            "6_0_0",
-            "gadgets"
-          ]
-        },
-        {
-          "filename": "R_.357_Rank_1.webp",
-          "label": "R .357",
-          "tags": [
-            "medium",
-            "3_0_0",
-            "4_0_0",
-            "5_0_0",
-            "6_0_0",
-            "weapon"
-          ]
-        },
-        {
           "filename": "Recurve_Bow_Rank_1.webp",
           "label": "RECURVE BOW",
           "tags": [
@@ -764,6 +727,30 @@
           ]
         },
         {
+          "filename": "RPG-7_Rank_1.webp",
+          "label": "RPG-7",
+          "tags": [
+            "heavy",
+            "3_0_0",
+            "4_0_0",
+            "5_0_0",
+            "6_0_0",
+            "gadgets"
+          ]
+        },
+        {
+          "filename": "R_.357_Rank_1.webp",
+          "label": "R .357",
+          "tags": [
+            "medium",
+            "3_0_0",
+            "4_0_0",
+            "5_0_0",
+            "6_0_0",
+            "weapon"
+          ]
+        },
+        {
           "filename": "SA1216_Rank_1.webp",
           "label": "SA1216",
           "tags": [
@@ -778,18 +765,6 @@
         {
           "filename": "SH1900_Rank_1.webp",
           "label": "SH1900",
-          "tags": [
-            "light",
-            "3_0_0",
-            "4_0_0",
-            "5_0_0",
-            "6_0_0",
-            "weapon"
-          ]
-        },
-        {
-          "filename": "SR-84_Rank_1.webp",
-          "label": "SR-84",
           "tags": [
             "light",
             "3_0_0",
@@ -853,6 +828,18 @@
           "label": "SPEAR",
           "tags": [
             "heavy",
+            "3_0_0",
+            "4_0_0",
+            "5_0_0",
+            "6_0_0",
+            "weapon"
+          ]
+        },
+        {
+          "filename": "SR-84_Rank_1.webp",
+          "label": "SR-84",
+          "tags": [
+            "light",
             "3_0_0",
             "4_0_0",
             "5_0_0",
@@ -1055,303 +1042,122 @@
       "displayName": "WUTHERING WAVES",
       "images": [
         {
-          "filename": "c/aa.webp",
-          "label": "Aalto",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_aer",
-            "c_1_0"
-          ]
+          "filename": "c\\aa.webp",
+          "label": "c\\aa.webp",
+          "tags": []
         },
         {
-          "filename": "c/bz.webp",
-          "label": "Baizhi",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_gla",
-            "c_1_0"
-          ]
+          "filename": "c\\bz.webp",
+          "label": "c\\bz.webp",
+          "tags": []
         },
         {
-          "filename": "c/cc.webp",
-          "label": "Calcharo",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_ele",
-            "c_1_0"
-          ]
+          "filename": "c\\cc.webp",
+          "label": "c\\cc.webp",
+          "tags": []
         },
         {
-          "filename": "c/cl.webp",
-          "label": "Changli",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_fus",
-            "c_1_1"
-          ]
+          "filename": "c\\cl.webp",
+          "label": "c\\cl.webp",
+          "tags": []
         },
         {
-          "filename": "c/cx.webp",
-          "label": "Chixia",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_fus",
-            "c_1_0"
-          ]
+          "filename": "c\\cx.webp",
+          "label": "c\\cx.webp",
+          "tags": []
         },
         {
-          "filename": "c/dj.webp",
-          "label": "Danjin",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_hav",
-            "c_1_0"
-          ]
+          "filename": "c\\dj.webp",
+          "label": "c\\dj.webp",
+          "tags": []
         },
         {
-          "filename": "c/ec.webp",
-          "label": "Encore",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_fus",
-            "c_1_0"
-          ]
+          "filename": "c\\ec.webp",
+          "label": "c\\ec.webp",
+          "tags": []
         },
         {
-          "filename": "c/js.webp",
-          "label": "Jinshi",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_spe",
-            "c_1_1"
-          ]
+          "filename": "c\\js.webp",
+          "label": "c\\js.webp",
+          "tags": []
         },
         {
-          "filename": "c/jx.webp",
-          "label": "Jianxin",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_aer",
-            "c_1_0"
-          ]
+          "filename": "c\\jx.webp",
+          "label": "c\\jx.webp",
+          "tags": []
         },
         {
-          "filename": "c/jy.webp",
-          "label": "Jiyan",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_aer",
-            "c_1_0"
-          ]
+          "filename": "c\\jy.webp",
+          "label": "c\\jy.webp",
+          "tags": []
         },
         {
-          "filename": "c/ly.webp",
-          "label": "Lingyang",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_gla",
-            "c_1_0"
-          ]
+          "filename": "c\\ly.webp",
+          "label": "c\\ly.webp",
+          "tags": []
         },
         {
-          "filename": "c/mf.webp",
-          "label": "Mortefi",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_fus",
-            "c_1_0"
-          ]
+          "filename": "c\\mf.webp",
+          "label": "c\\mf.webp",
+          "tags": []
         },
         {
-          "filename": "c/rm-h.webp",
-          "label": "Rover Havoc",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_hav",
-            "c_1_0"
-          ]
+          "filename": "c\\rm-h.webp",
+          "label": "c\\rm-h.webp",
+          "tags": []
         },
         {
-          "filename": "c/rm-s.webp",
-          "label": "Rover Spectro",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_spe",
-            "c_1_0"
-          ]
+          "filename": "c\\rm-s.webp",
+          "label": "c\\rm-s.webp",
+          "tags": []
         },
         {
-          "filename": "c/sh.webp",
-          "label": "Sanhua",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_gla",
-            "c_1_0"
-          ]
+          "filename": "c\\sh.webp",
+          "label": "c\\sh.webp",
+          "tags": []
         },
         {
-          "filename": "c/sk.webp",
-          "label": "The Shorekeeper",
-          "tags": [
-            "c_att_spe",
-            "c_1_3",
-            "c_all",
-            "c_rarity_5"
-          ]
+          "filename": "c\\sk.webp",
+          "label": "c\\sk.webp",
+          "tags": []
         },
         {
-          "filename": "c/vr.webp",
-          "label": "Verina",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_spe",
-            "c_1_0"
-          ]
+          "filename": "c\\vr.webp",
+          "label": "c\\vr.webp",
+          "tags": []
         },
         {
-          "filename": "c/xy.webp",
-          "label": "Xiangli Yao",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_ele",
-            "c_1_2"
-          ]
+          "filename": "c\\xy.webp",
+          "label": "c\\xy.webp",
+          "tags": []
         },
         {
-          "filename": "c/yh.webp",
-          "label": "Youhu",
-          "tags": [
-            "c_att_gla",
-            "c_1_3",
-            "c_all",
-            "c_rarity_4"
-          ]
+          "filename": "c\\yh.webp",
+          "label": "c\\yh.webp",
+          "tags": []
         },
         {
-          "filename": "c/yl.webp",
-          "label": "Yinlin",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_ele",
-            "c_1_0"
-          ]
+          "filename": "c\\yl.webp",
+          "label": "c\\yl.webp",
+          "tags": []
         },
         {
-          "filename": "c/yw.webp",
-          "label": "Yuanwu",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_ele",
-            "c_1_0"
-          ]
+          "filename": "c\\yw.webp",
+          "label": "c\\yw.webp",
+          "tags": []
         },
         {
-          "filename": "c/yy.webp",
-          "label": "Yangyang",
-          "tags": [
-            "c_all",
-            "c_rarity_4",
-            "c_att_aer",
-            "c_1_0"
-          ]
+          "filename": "c\\yy.webp",
+          "label": "c\\yy.webp",
+          "tags": []
         },
         {
-          "filename": "c/zz.webp",
-          "label": "Zhezhi",
-          "tags": [
-            "c_all",
-            "c_rarity_5",
-            "c_att_gla",
-            "c_1_2"
-          ]
+          "filename": "c\\zz.webp",
+          "label": "c\\zz.webp",
+          "tags": []
         }
       ],
-      "tags": {
-        "c_all": {
-          "title": "All Resonators",
-          "description": "All Resonators who have been officially released or announced",
-          "category": "general"
-        },
-        "c_rarity_4": {
-          "title": "4-Star Resonators",
-          "description": "Resonators with a rarity of 4 stars",
-          "category": "general"
-        },
-        "c_att_aer": {
-          "title": "Aero Resonators",
-          "description": "Aero attribute Resonators",
-          "category": "general"
-        },
-        "c_1_0": {
-          "title": "Resonators - Version 1",
-          "description": "Resonators from Version 1",
-          "category": "general"
-        },
-        "c_att_gla": {
-          "title": "Glacio Resonators",
-          "description": "Glacio attribute Resonators",
-          "category": "general"
-        },
-        "c_rarity_5": {
-          "title": "5-Star Resonators",
-          "description": "Resonators with a rarity of 5 stars",
-          "category": "general"
-        },
-        "c_att_ele": {
-          "title": "Electro Resonators",
-          "description": "Electro attribute Resonators",
-          "category": "general"
-        },
-        "c_att_fus": {
-          "title": "Fusion Resonators",
-          "description": "Fusion attribute Resonators",
-          "category": "general"
-        },
-        "c_1_1": {
-          "title": "Resonators - Version 1.1",
-          "description": "Resonators from Version 1.1",
-          "category": "general"
-        },
-        "c_att_hav": {
-          "title": "Havoc Resonators",
-          "description": "Havoc attribute Resonators",
-          "category": "general"
-        },
-        "c_att_spe": {
-          "title": "Spectro Resonators",
-          "description": "Spectro attribute Resonators",
-          "category": "general"
-        },
-        "c_1_3": {
-          "title": "Resonators - Version 1.3",
-          "description": "Resonators from Version 1.3",
-          "category": "general"
-        },
-        "c_1_2": {
-          "title": "Resonators - Version 1.2",
-          "description": "Resonators from Version 1.2",
-          "category": "general"
-        }
-      },
+      "tags": {},
       "googleFont": "Cinzel",
       "backgroundImage": "/splash/wuwa-bg-1.webp"
     },
@@ -1776,423 +1582,284 @@
       "displayName": "Web Development Technologies",
       "images": [
         {
-          "filename": "be/actionhero.webp",
-          "label": "ActionHero",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\actionhero.webp",
+          "label": "be\\actionhero.webp",
+          "tags": []
         },
         {
-          "filename": "be/adonis.webp",
-          "label": "AdonisJS",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\adonis.webp",
+          "label": "be\\adonis.webp",
+          "tags": []
         },
         {
-          "filename": "be/cassandra.webp",
-          "label": "Apache Cassandra",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\cassandra.webp",
+          "label": "be\\cassandra.webp",
+          "tags": []
         },
         {
-          "filename": "be/couchdb.webp",
-          "label": "CouchDB",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\couchdb.webp",
+          "label": "be\\couchdb.webp",
+          "tags": []
         },
         {
-          "filename": "be/django.webp",
-          "label": "Django",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\django.webp",
+          "label": "be\\django.webp",
+          "tags": []
         },
         {
-          "filename": "be/dotnet.webp",
-          "label": ".NET",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\dotnet.webp",
+          "label": "be\\dotnet.webp",
+          "tags": []
         },
         {
-          "filename": "be/express.webp",
-          "label": "Express.js",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\express.webp",
+          "label": "be\\express.webp",
+          "tags": []
         },
         {
-          "filename": "be/fastify.webp",
-          "label": "Fastify",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\fastify.webp",
+          "label": "be\\fastify.webp",
+          "tags": []
         },
         {
-          "filename": "be/feathers.webp",
-          "label": "Feathers",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\feathers.webp",
+          "label": "be\\feathers.webp",
+          "tags": []
         },
         {
-          "filename": "be/hapi.webp",
-          "label": "Hapi",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\hapi.webp",
+          "label": "be\\hapi.webp",
+          "tags": []
         },
         {
-          "filename": "be/hono.webp",
-          "label": "Hono",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\hono.webp",
+          "label": "be\\hono.webp",
+          "tags": []
         },
         {
-          "filename": "be/koa.webp",
-          "label": "Koa",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\koa.webp",
+          "label": "be\\koa.webp",
+          "tags": []
         },
         {
-          "filename": "be/laravel.webp",
-          "label": "Laravel",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\laravel.webp",
+          "label": "be\\laravel.webp",
+          "tags": []
         },
         {
-          "filename": "be/leveldb.webp",
-          "label": "LevelDB",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\leveldb.webp",
+          "label": "be\\leveldb.webp",
+          "tags": []
         },
         {
-          "filename": "be/loopback.webp",
-          "label": "LoopBack",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\loopback.webp",
+          "label": "be\\loopback.webp",
+          "tags": []
         },
         {
-          "filename": "be/mariadb.webp",
-          "label": "MariaDB",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\mariadb.webp",
+          "label": "be\\mariadb.webp",
+          "tags": []
         },
         {
-          "filename": "be/moleculer.webp",
-          "label": "Moleculer",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\moleculer.webp",
+          "label": "be\\moleculer.webp",
+          "tags": []
         },
         {
-          "filename": "be/mongodb.webp",
-          "label": "MongoDB",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\mongodb.webp",
+          "label": "be\\mongodb.webp",
+          "tags": []
         },
         {
-          "filename": "be/mssql.webp",
-          "label": "Microsoft SQL Server",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\mssql.webp",
+          "label": "be\\mssql.webp",
+          "tags": []
         },
         {
-          "filename": "be/mysql.webp",
-          "label": "MySQL",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\mysql.webp",
+          "label": "be\\mysql.webp",
+          "tags": []
         },
         {
-          "filename": "be/nest.webp",
-          "label": "NestJS",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\nest.webp",
+          "label": "be\\nest.webp",
+          "tags": []
         },
         {
-          "filename": "be/pgsql.webp",
-          "label": "PostgreSQL",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\pgsql.webp",
+          "label": "be\\pgsql.webp",
+          "tags": []
         },
         {
-          "filename": "be/rails.webp",
-          "label": "Ruby on Rails",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\rails.webp",
+          "label": "be\\rails.webp",
+          "tags": []
         },
         {
-          "filename": "be/redis.webp",
-          "label": "Redis",
-          "tags": [
-            "be",
-            "db"
-          ]
+          "filename": "be\\redis.webp",
+          "label": "be\\redis.webp",
+          "tags": []
         },
         {
-          "filename": "be/restify.webp",
-          "label": "Restify",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\restify.webp",
+          "label": "be\\restify.webp",
+          "tags": []
         },
         {
-          "filename": "be/sails.webp",
-          "label": "Sails.js",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\sails.webp",
+          "label": "be\\sails.webp",
+          "tags": []
         },
         {
-          "filename": "be/spring.webp",
-          "label": "Spring",
-          "tags": [
-            "be",
-            "befw"
-          ]
+          "filename": "be\\spring.webp",
+          "label": "be\\spring.webp",
+          "tags": []
         },
         {
-          "filename": "fe/alpine.webp",
-          "label": "Alpine.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\alpine.webp",
+          "label": "fe\\alpine.webp",
+          "tags": []
         },
         {
-          "filename": "fe/angular.webp",
-          "label": "Angular",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\angular.webp",
+          "label": "fe\\angular.webp",
+          "tags": []
         },
         {
-          "filename": "fe/astro.webp",
-          "label": "Astro",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\astro.webp",
+          "label": "fe\\astro.webp",
+          "tags": []
         },
         {
-          "filename": "fe/aurelia.webp",
-          "label": "Aurelia",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\aurelia.webp",
+          "label": "fe\\aurelia.webp",
+          "tags": []
         },
         {
-          "filename": "fe/cyclejs.webp",
-          "label": "Cycle.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\cyclejs.webp",
+          "label": "fe\\cyclejs.webp",
+          "tags": []
         },
         {
-          "filename": "fe/ember.webp",
-          "label": "Ember.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\ember.webp",
+          "label": "fe\\ember.webp",
+          "tags": []
         },
         {
-          "filename": "fe/foundation.webp",
-          "label": "Foundation",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\foundation.webp",
+          "label": "fe\\foundation.webp",
+          "tags": []
         },
         {
-          "filename": "fe/framework7.webp",
-          "label": "Framework7",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\framework7.webp",
+          "label": "fe\\framework7.webp",
+          "tags": []
         },
         {
-          "filename": "fe/gatsby.webp",
-          "label": "Gatsby",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\gatsby.webp",
+          "label": "fe\\gatsby.webp",
+          "tags": []
         },
         {
-          "filename": "fe/htmx.webp",
-          "label": "HTMX",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\htmx.webp",
+          "label": "fe\\htmx.webp",
+          "tags": []
         },
         {
-          "filename": "fe/ionic.webp",
-          "label": "Ionic",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\ionic.webp",
+          "label": "fe\\ionic.webp",
+          "tags": []
         },
         {
-          "filename": "fe/jquery.webp",
-          "label": "JQuery",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\jquery.webp",
+          "label": "fe\\jquery.webp",
+          "tags": []
         },
         {
-          "filename": "fe/lit.webp",
-          "label": "Lit",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\lit.webp",
+          "label": "fe\\lit.webp",
+          "tags": []
         },
         {
-          "filename": "fe/marko.webp",
-          "label": "Marko",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\marko.webp",
+          "label": "fe\\marko.webp",
+          "tags": []
         },
         {
-          "filename": "fe/mithril.webp",
-          "label": "Mithril",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\mithril.webp",
+          "label": "fe\\mithril.webp",
+          "tags": []
         },
         {
-          "filename": "fe/nextjs.webp",
-          "label": "Next.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\nextjs.webp",
+          "label": "fe\\nextjs.webp",
+          "tags": []
         },
         {
-          "filename": "fe/nuxt.webp",
-          "label": "Nuxt.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\nuxt.webp",
+          "label": "fe\\nuxt.webp",
+          "tags": []
         },
         {
-          "filename": "fe/preact.webp",
-          "label": "Preact",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\preact.webp",
+          "label": "fe\\preact.webp",
+          "tags": []
         },
         {
-          "filename": "fe/quasar.webp",
-          "label": "Quasar",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\quasar.webp",
+          "label": "fe\\quasar.webp",
+          "tags": []
         },
         {
-          "filename": "fe/qwik.webp",
-          "label": "Qwik",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\qwik.webp",
+          "label": "fe\\qwik.webp",
+          "tags": []
         },
         {
-          "filename": "fe/react.webp",
-          "label": "React",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\react.webp",
+          "label": "fe\\react.webp",
+          "tags": []
         },
         {
-          "filename": "fe/remix.webp",
-          "label": "Remix",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\remix.webp",
+          "label": "fe\\remix.webp",
+          "tags": []
         },
         {
-          "filename": "fe/riot.webp",
-          "label": "Riot.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\riot.webp",
+          "label": "fe\\riot.webp",
+          "tags": []
         },
         {
-          "filename": "fe/semantic.webp",
-          "label": "Semantic UI",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\semantic.webp",
+          "label": "fe\\semantic.webp",
+          "tags": []
         },
         {
-          "filename": "fe/solidjs.webp",
-          "label": "Solid.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\solidjs.webp",
+          "label": "fe\\solidjs.webp",
+          "tags": []
         },
         {
-          "filename": "fe/stencil.webp",
-          "label": "Stencil",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\stencil.webp",
+          "label": "fe\\stencil.webp",
+          "tags": []
         },
         {
-          "filename": "fe/stimulus.webp",
-          "label": "Stimulus",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\stimulus.webp",
+          "label": "fe\\stimulus.webp",
+          "tags": []
         },
         {
-          "filename": "fe/svelte.webp",
-          "label": "Svelte",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\svelte.webp",
+          "label": "fe\\svelte.webp",
+          "tags": []
         },
         {
-          "filename": "fe/vue.webp",
-          "label": "Vue.js",
-          "tags": [
-            "fe"
-          ]
+          "filename": "fe\\vue.webp",
+          "label": "fe\\vue.webp",
+          "tags": []
         },
         {
           "filename": "meteor.webp",
@@ -2210,26 +1877,6 @@
         }
       ],
       "tags": {
-        "be": {
-          "title": "Backend Technologies",
-          "description": "A comprehensive list of tools, frameworks, and libraries used in modern backend web development. This includes server-side technologies, databases, and other tools that enable developers to build scalable and performant web applications.",
-          "category": "general"
-        },
-        "befw": {
-          "title": "Backend Frameworks",
-          "description": "Server-side frameworks used to build the core logic and structure of web applications.",
-          "category": "general"
-        },
-        "db": {
-          "title": "Databases and Persistence",
-          "description": "Systems and technologies used for storing, retrieving, and managing data in web applications.",
-          "category": "general"
-        },
-        "fe": {
-          "title": "Frontend Technologies",
-          "description": "A comprehensive list of tools, frameworks, and libraries used in modern frontend web development. This includes JavaScript frameworks, UI libraries, meta-frameworks, and other technologies that enable developers to build interactive and responsive user interfaces for web applications.",
-          "category": "general"
-        },
         "fs": {
           "title": "Fullstack Technologies",
           "description": "A comprehensive list of frameworks and platforms that provide end-to-end solutions for web application development, covering both frontend and backend aspects. These technologies enable developers to build complete web applications using a single, integrated stack.",
@@ -2269,44 +1916,29 @@
           ]
         },
         {
-          "filename": "c/e_astrike.webp",
-          "label": "AIRSTRIKE",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "c\\e_astrike.webp",
+          "label": "c\\e_astrike.webp",
+          "tags": []
         },
         {
-          "filename": "c/e_heart.webp",
-          "label": "GNARLED HEART",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "c\\e_heart.webp",
+          "label": "c\\e_heart.webp",
+          "tags": []
         },
         {
-          "filename": "c/e_life.webp",
-          "label": "ORB OF LIFE",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "c\\e_life.webp",
+          "label": "c\\e_life.webp",
+          "tags": []
         },
         {
-          "filename": "c/e_res.webp",
-          "label": "RESPAWN BEACON",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "c\\e_res.webp",
+          "label": "c\\e_res.webp",
+          "tags": []
         },
         {
-          "filename": "c/e_rev.webp",
-          "label": "TEAM REVIVE",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "c\\e_rev.webp",
+          "label": "c\\e_rev.webp",
+          "tags": []
         },
         {
           "filename": "cls.webp",
@@ -2327,28 +1959,19 @@
           ]
         },
         {
-          "filename": "eq/eq_glide.webp",
-          "label": "GLIDE BOOTS",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "eq\\eq_glide.webp",
+          "label": "eq\\eq_glide.webp",
+          "tags": []
         },
         {
-          "filename": "eq/eq_reap.webp",
-          "label": "ENDLESS REAPER",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "eq\\eq_reap.webp",
+          "label": "eq\\eq_reap.webp",
+          "tags": []
         },
         {
-          "filename": "eq/eq_soul.webp",
-          "label": "THE SOULSTEALER",
-          "tags": [
-            "exotic",
-            "open_beta_launch"
-          ]
+          "filename": "eq\\eq_soul.webp",
+          "label": "eq\\eq_soul.webp",
+          "tags": []
         },
         {
           "filename": "flx.webp",
@@ -2423,634 +2046,354 @@
           ]
         },
         {
-          "filename": "p/a1_ahaste.webp",
-          "label": "ABILITY HASTE RUNE",
-          "tags": [
-            "white",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a1_mana.webp",
-          "label": "MANA RUNE",
-          "tags": [
-            "white",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a1_move.webp",
-          "label": "MOVEMENT RUNE",
-          "tags": [
-            "white",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a1_vamp.webp",
-          "label": "OMNIVAMP RUNE",
-          "tags": [
-            "white",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_axe.webp",
-          "label": "THROWING AXE",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_ball.webp",
-          "label": "CAPTURE BALL",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_burn.webp",
-          "label": "BURNING CORE",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_cloud.webp",
-          "label": "MANA CLOUD",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_eplat.webp",
-          "label": "EMERGENCY PLATFORM",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_fish.webp",
-          "label": "FISHING POLE",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_forest.webp",
-          "label": "FRIEND OF THE FOREST",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_ghil.webp",
-          "label": "GHILLIE SUIT",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_insta.webp",
-          "label": "INSTANT VIVE",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_jam.webp",
-          "label": "JAMMER",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_money.webp",
-          "label": "MONEY TREE SEEDS",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_scuba.webp",
-          "label": "SCUBA GEAR",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_thumb.webp",
-          "label": "GREEN THUMB",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a2_tree.webp",
-          "label": "TREE COSTUME",
-          "tags": [
-            "green",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_barrier.webp",
-          "label": "DELICATE BARRIER",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_battery.webp",
-          "label": "DELICATE MANA BATTERY",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_blood.webp",
-          "label": "BLOOD STONE",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_boar.webp",
-          "label": "BRUSH BOAR",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_bush.webp",
-          "label": "BRUSHWHACKER",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_chonk.webp",
-          "label": "THE CHONKER",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_cook.webp",
-          "label": "LITTLE COOK",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_field.webp",
-          "label": "ANTI-MOBILITY FIELD",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_fist.webp",
-          "label": "IRON FIST",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_laser.webp",
-          "label": "REMOTE LASER",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_miss.webp",
-          "label": "HOMING MISSILE",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_mortar.webp",
-          "label": "MORTAR",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_prison.webp",
-          "label": "TREE PRISON",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_rally.webp",
-          "label": "RALLY",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_regen.webp",
-          "label": "REGENERATIVE ARMOR",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_spy.webp",
-          "label": "RAVEN SPY",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_touchm.webp",
-          "label": "TOUCH OF MANA",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_touchs.webp",
-          "label": "TOUCH OF SPEED",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a3_turt.webp",
-          "label": "RESCUE TURTLE",
-          "tags": [
-            "blue",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_berry.webp",
-          "label": "BERRY EATER",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_blast.webp",
-          "label": "AIRBLAST",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_boost.webp",
-          "label": "GLIDER JET",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_bungee.webp",
-          "label": "BUNGEE SHOT",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_chonkc.webp",
-          "label": "CHONKER CANNON",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_cloak.webp",
-          "label": "STEALTH CLOAK",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_fix.webp",
-          "label": "FIXER",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_ga.webp",
-          "label": "GUARDIAN ANGEL",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_hook.webp",
-          "label": "GRAPPLING HOOK",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_hover.webp",
-          "label": "HOVER WINGS",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_hpack.webp",
-          "label": "HEALTH PACKS",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_nuke.webp",
-          "label": "TACTICAL NUKE",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_rob.webp",
-          "label": "ROBBER RACCOON",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_spec.webp",
-          "label": "ABYSS SPECIALIST",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_tele.webp",
-          "label": "TWO-WAY TELEPORTER",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_touchl.webp",
-          "label": "TOUCH OF LIFE",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_wall.webp",
-          "label": "SAND WALL",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/a4_xray.webp",
-          "label": "DELICATE X-RAY GOGGLES",
-          "tags": [
-            "purple",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_blink.webp",
-          "label": "BLINKSTONE",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_brain.webp",
-          "label": "BUBBA'S BRAIN",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_disg.webp",
-          "label": "DELICATE DISGUISE",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_eye.webp",
-          "label": "ABYSSAL EYE",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_fang.webp",
-          "label": "ABYSSAL FANG",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_fate.webp",
-          "label": "FATE REWINDER",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_frog.webp",
-          "label": "TEAM FROG JUMP",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_gaa.webp",
-          "label": "GUARDIAN ARCHANGEL",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_icarus.webp",
-          "label": "ICARUS GLIDE",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_mnuke.webp",
-          "label": "MEGA CLUSTER NUKE",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_rep.webp",
-          "label": "REPLICATOR",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_scale.webp",
-          "label": "ABYSSAL SCALE",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_shred.webp",
-          "label": "ARMOR SHREDDER",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_shuf.webp",
-          "label": "POWER SHUFFLER",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
-        },
-        {
-          "filename": "p/e_vac.webp",
-          "label": "MAGNETIC VACUUM",
-          "tags": [
-            "exotic",
-            "open_beta_launch",
-            "power"
-          ]
+          "filename": "p\\a1_ahaste.webp",
+          "label": "p\\a1_ahaste.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a1_mana.webp",
+          "label": "p\\a1_mana.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a1_move.webp",
+          "label": "p\\a1_move.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a1_vamp.webp",
+          "label": "p\\a1_vamp.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_axe.webp",
+          "label": "p\\a2_axe.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_ball.webp",
+          "label": "p\\a2_ball.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_burn.webp",
+          "label": "p\\a2_burn.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_cloud.webp",
+          "label": "p\\a2_cloud.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_eplat.webp",
+          "label": "p\\a2_eplat.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_fish.webp",
+          "label": "p\\a2_fish.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_forest.webp",
+          "label": "p\\a2_forest.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_ghil.webp",
+          "label": "p\\a2_ghil.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_insta.webp",
+          "label": "p\\a2_insta.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_jam.webp",
+          "label": "p\\a2_jam.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_money.webp",
+          "label": "p\\a2_money.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_scuba.webp",
+          "label": "p\\a2_scuba.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_thumb.webp",
+          "label": "p\\a2_thumb.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a2_tree.webp",
+          "label": "p\\a2_tree.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_barrier.webp",
+          "label": "p\\a3_barrier.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_battery.webp",
+          "label": "p\\a3_battery.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_blood.webp",
+          "label": "p\\a3_blood.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_boar.webp",
+          "label": "p\\a3_boar.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_bush.webp",
+          "label": "p\\a3_bush.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_chonk.webp",
+          "label": "p\\a3_chonk.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_cook.webp",
+          "label": "p\\a3_cook.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_field.webp",
+          "label": "p\\a3_field.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_fist.webp",
+          "label": "p\\a3_fist.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_laser.webp",
+          "label": "p\\a3_laser.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_miss.webp",
+          "label": "p\\a3_miss.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_mortar.webp",
+          "label": "p\\a3_mortar.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_prison.webp",
+          "label": "p\\a3_prison.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_rally.webp",
+          "label": "p\\a3_rally.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_regen.webp",
+          "label": "p\\a3_regen.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_spy.webp",
+          "label": "p\\a3_spy.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_touchm.webp",
+          "label": "p\\a3_touchm.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_touchs.webp",
+          "label": "p\\a3_touchs.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a3_turt.webp",
+          "label": "p\\a3_turt.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_berry.webp",
+          "label": "p\\a4_berry.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_blast.webp",
+          "label": "p\\a4_blast.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_boost.webp",
+          "label": "p\\a4_boost.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_bungee.webp",
+          "label": "p\\a4_bungee.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_chonkc.webp",
+          "label": "p\\a4_chonkc.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_cloak.webp",
+          "label": "p\\a4_cloak.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_fix.webp",
+          "label": "p\\a4_fix.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_ga.webp",
+          "label": "p\\a4_ga.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_hook.webp",
+          "label": "p\\a4_hook.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_hover.webp",
+          "label": "p\\a4_hover.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_hpack.webp",
+          "label": "p\\a4_hpack.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_nuke.webp",
+          "label": "p\\a4_nuke.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_rob.webp",
+          "label": "p\\a4_rob.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_spec.webp",
+          "label": "p\\a4_spec.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_tele.webp",
+          "label": "p\\a4_tele.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_touchl.webp",
+          "label": "p\\a4_touchl.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_wall.webp",
+          "label": "p\\a4_wall.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\a4_xray.webp",
+          "label": "p\\a4_xray.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_blink.webp",
+          "label": "p\\e_blink.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_brain.webp",
+          "label": "p\\e_brain.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_disg.webp",
+          "label": "p\\e_disg.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_eye.webp",
+          "label": "p\\e_eye.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_fang.webp",
+          "label": "p\\e_fang.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_fate.webp",
+          "label": "p\\e_fate.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_frog.webp",
+          "label": "p\\e_frog.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_gaa.webp",
+          "label": "p\\e_gaa.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_icarus.webp",
+          "label": "p\\e_icarus.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_mnuke.webp",
+          "label": "p\\e_mnuke.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_rep.webp",
+          "label": "p\\e_rep.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_scale.webp",
+          "label": "p\\e_scale.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_shred.webp",
+          "label": "p\\e_shred.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_shuf.webp",
+          "label": "p\\e_shuf.webp",
+          "tags": []
+        },
+        {
+          "filename": "p\\e_vac.webp",
+          "label": "p\\e_vac.webp",
+          "tags": []
         },
         {
           "filename": "shk.webp",
@@ -3120,11 +2463,6 @@
           "description": "Initiator Hunters",
           "category": "general"
         },
-        "exotic": {
-          "title": "Exotic Rarity",
-          "description": "Exotic Rarity",
-          "category": "general"
-        },
         "protector": {
           "title": "Protectors",
           "description": "Protector Hunters",
@@ -3133,31 +2471,6 @@
         "frontliner": {
           "title": "Frontliners",
           "description": "Frontliner Hunters",
-          "category": "general"
-        },
-        "white": {
-          "title": "White Rarity",
-          "description": "White Rarity",
-          "category": "general"
-        },
-        "power": {
-          "title": "All Powers",
-          "description": "Images of Powers",
-          "category": "general"
-        },
-        "green": {
-          "title": "Green Rarity",
-          "description": "Green Rarity",
-          "category": "general"
-        },
-        "blue": {
-          "title": "Blue Rarity",
-          "description": "Blue Rarity",
-          "category": "general"
-        },
-        "purple": {
-          "title": "Purple Rarity",
-          "description": "Purple Rarity",
           "category": "general"
         }
       },
